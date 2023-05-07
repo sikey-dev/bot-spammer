@@ -1,0 +1,8 @@
+{
+  "redirect_uri": "https://IdolizedNaiveApplet.notauth1337.repl.co/auth",
+  "token": "MTA3MjE3MTMzMjg3NzQxODU1Nw.GGvc5L.EoX9z7l262tnhYAT54nbAOQbOzzg_lgN4QnLkM",
+  "client_secret": "KB4safD-IzOFPc5PrBf3JojlPxfCxGzY",
+  "client_id": "1072171332877418557",
+  "authorize_url": "https://discord.com/api/v10/oauth2/authorize?client_id=1072171332877418557&redirect_uri=https%3A%2F%2FIdolizedNaiveApplet.notauth1337.repl.co%2Fauth&response_type=code&scope=identify%20guilds.join",
+  "join_delay": 0
+}
